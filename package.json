@@ -16,9 +16,6 @@
     "engines": {
         "vscode": "^1.0.0"
     },
-    "categories": [
-        "Other"
-    ],
     "keywords": [
         "duplicate"
     ],
@@ -34,8 +31,8 @@
                 "duplicateLineSwitchWord.pattern": {
                     "type": "array",
                     "default": [
-                        "width,height",
                         "addEventListener,removeEventListener",
+                        "width,height",
                         "top,bottom",
                         "left,right"
                     ],                    
